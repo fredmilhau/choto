@@ -1,0 +1,21 @@
+{
+  "name": "choto",
+  "version": "0.1.1",
+  "description": "Lightweight web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fredmilhau",
+  "license": "Apache License 2.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fredmilhau/choto.git"
+  },
+  "keywords": [
+    "choto", "framework", "web", "rest", "restful", "router", "api"
+  ],
+  "devDependencies": {
+    "typescript": "^3.1.3"
+  }
+}
